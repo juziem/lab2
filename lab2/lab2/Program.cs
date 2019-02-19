@@ -20,7 +20,7 @@ namespace lab2
                 case 3: res = a + b; break;                
                 case 4: res = a - b; break;               
                 case 5: res = a * b; break;
-                case 6: break;
+                case 6: res = a / b;  break;
                 default: break;
             }
             Console.ReadKey();
