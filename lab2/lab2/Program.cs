@@ -17,8 +17,8 @@ namespace lab2
             {
                 case 1: a = Console.Read(); break;
                 case 2: b = Console.Read(); break;
-                case 3: res = a + b; break;
-                case 4: break;
+                case 3: res = a + b; break;                
+                case 4: res = a - b; break;
                 case 5: break;
                 case 6: break;
                 default: break;
