@@ -10,6 +10,8 @@ namespace lab2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dis is da masta");
+            Console.ReadKey();
         }
     }
 }
