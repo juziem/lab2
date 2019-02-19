@@ -16,7 +16,7 @@ namespace lab2
             switch (key)
             {
                 case 1: a = Console.Read(); break;
-                case 2: break;
+                case 2: b = Console.Read(); break;
                 case 3: break;
                 case 4: break;
                 case 5: break;
